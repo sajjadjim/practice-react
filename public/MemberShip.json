@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "description": "Access to gym equipment during staffed hours.",
+    "price": "$20/month",
+    "duration": "1 Month",
+    "features": [
+      "Gym access during staffed hours",
+      "Locker room access",
+      "No group classes"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "description": "Includes Basic access plus group fitness classes.",
+    "price": "$35/month",
+    "duration": "1 Month",
+    "features": [
+      "All Basic features",
+      "Access to group fitness classes",
+      "1 guest pass per month"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "description": "Includes Standard access plus personal training sessions.",
+    "price": "$60/month",
+    "duration": "1 Month",
+    "features": [
+      "All Standard features",
+      "2 personal training sessions per month",
+      "Access to wellness seminars"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Annual VIP",
+    "description": "All Premium benefits with 1-year commitment and extra perks.",
+    "price": "$600/year",
+    "duration": "12 Months",
+    "features": [
+      "All Premium features",
+      "Unlimited guest passes",
+      "Priority booking for classes",
+      "Free nutrition plan"
+    ]
+  }
+]

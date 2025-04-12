@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Ariana Rahman",
+      "Biology": 85,
+      "Math": 92,
+      "Chemistry": 78,
+      "HigherMath": 88,
+      "Bangla": 75,
+      "English": 80
+    },
+    {
+      "id": 2,
+      "name": "Zahid Hasan",
+      "Biology": 90,
+      "Math": 95,
+      "Chemistry": 89,
+      "HigherMath": 93,
+      "Bangla": 85,
+      "English": 87
+    },
+    {
+      "id": 3,
+      "name": "Meherin Akter",
+      "Biology": 70,
+      "Math": 78,
+      "Chemistry": 65,
+      "HigherMath": 72,
+      "Bangla": 80,
+      "English": 74
+    },
+    {
+      "id": 4,
+      "name": "Tanvir Alam",
+      "Biology": 88,
+      "Math": 90,
+      "Chemistry": 85,
+      "HigherMath": 91,
+      "Bangla": 82,
+      "English": 79
+    },
+    {
+      "id": 5,
+      "name": "Lamia Chowdhury",
+      "Biology": 95,
+      "Math": 89,
+      "Chemistry": 92,
+      "HigherMath": 87,
+      "Bangla": 90,
+      "English": 88
+    }
+  ]
+  
