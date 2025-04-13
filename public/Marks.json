@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1001,
+      "name": "Sajjad JIM",
+      "marks": {
+        "bangla": 85,
+        "chemistry": 78,
+        "math1": 92,
+        "physics": 88,
+        "math2": 90
+      }
+    },
+    {
+      "id": 1002,
+      "name": "Riya Sultana",
+      "marks": {
+        "bangla": 74,
+        "chemistry": 82,
+        "math1": 80,
+        "physics": 76,
+        "math2": 84
+      }
+    },
+    {
+      "id": 1003,
+      "name": "Tanvir Ahmed",
+      "marks": {
+        "bangla": 90,
+        "chemistry": 75,
+        "math1": 88,
+        "physics": 85,
+        "math2": 89
+      }
+    },
+    {
+      "id": 1004,
+      "name": "Nusrat Jahan",
+      "marks": {
+        "bangla": 82,
+        "chemistry": 79,
+        "math1": 91,
+        "physics": 80,
+        "math2": 87
+      }
+    },
+    {
+      "id": 1005,
+      "name": "Mehedi Hasan",
+      "marks": {
+        "bangla": 78,
+        "chemistry": 84,
+        "math1": 85,
+        "physics": 82,
+        "math2": 86
+      }
+    }
+  ]
+  

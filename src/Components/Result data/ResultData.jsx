@@ -4,7 +4,7 @@ import ReChart from './ReChart';
 
 const ResultData = ({ResultDataALL}) => {
     const result = use(ResultDataALL)
-    console.log(result)
+    // console.log(result)
     return (
         
             <div className='grid justify-center my-10'>
